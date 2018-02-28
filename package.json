@@ -1,0 +1,27 @@
+{
+  "name": "shopify-express-application",
+  "version": "1.0.0",
+  "description": "Shopify Express Application made to test the recurring payment option",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edunicastro/shopify-express-application.git"
+  },
+  "author": "Eduardo Mauricio Mueller Nicastro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edunicastro/shopify-express-application/issues"
+  },
+  "homepage": "https://github.com/edunicastro/shopify-express-application#readme",
+  "dependencies": {
+    "cookie": "^0.3.1",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.2",
+    "nonce": "^1.0.4",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
